@@ -3,5 +3,5 @@ build:
   steps:
     - bundle-install
     - script:
-      name: generate site
-      code: bundle exec jekyll build --trace
+        name: generate site
+        code: bundle exec jekyll build --trace
