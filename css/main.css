@@ -132,6 +132,7 @@ ul.posts span {
   border: 1px solid #ddd;
   background-color: #eef;
   padding: 0 .4em;
+  overflow-x: scroll;
 }
 
 .post ul, .post ol {
